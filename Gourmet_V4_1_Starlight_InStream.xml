@@ -11,13 +11,13 @@
             <AdParameters><![CDATA[
                 {
                     "videos": {
-                        "mp4": "https://uagde.adocean.pl/files/akadnktktzy/yjoncvjgno/ooqnpjlmto/Gourmet_NaturesCr_20_MOAT.mp4",
+                        "mp4": "http://uagde.adocean.pl/files/akadnktktzy/yjoncvjgno/ooqnpjlmto/Gourmet_NaturesCr_20_MOAT.mp4",
                         "ogg": "",
                         "webm": ""
                     },
                     "inscreen": {
                         "unique": "tertouotphujopmrknzcncng",
-                        "xgdeUrl": "https://gdeua.hit.gemius.pl/gdejs/xgde.js",
+                        "xgdeUrl": "http://gdeua.hit.gemius.pl/gdejs/xgde.js",
                         "hitUrl": ""
                     },
                     "resizeOnRequest": false,
@@ -43,12 +43,12 @@
                         "skipIn": "Skip in %t",
                         "skipAd": "Skip Ad"
                     },
-                    "host": "https://uagde.adocean.pl"
+                    "host": "http://uagde.adocean.pl"
                 }
             ]]></AdParameters>
             <MediaFiles>
                 <MediaFile delivery="progressive" type="application/x-javascript" apiFramework="VPAID">
-                <![CDATA[https://uagde.adocean.pl/files/js/vpaid_linear.async.js]]>
+                <![CDATA[http://uagde.adocean.pl/files/js/vpaid_linear.async.js]]>
                 </MediaFile>
             </MediaFiles>
             <VideoClicks>
@@ -73,4 +73,3 @@
     </InLine>
   </Ad>
 </VAST>
-
