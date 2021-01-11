@@ -1,5 +1,5 @@
 <VAST version="4.1">
-  <Ad id="qagoiqsfyerffspojhfprjjr">
+  <Ad id="tertouotphujopmrknzcncng">
     <InLine>
       <AdSystem>Gemius Direct Effect</AdSystem>
       <AdTitle><![CDATA[HTTP -VideoAd]]></AdTitle>
@@ -11,20 +11,20 @@
             <AdParameters><![CDATA[
                 {
                     "videos": {
-                        "mp4": "https://uagde.adocean.pl/files/akadnktktzy/yjoncvjgno/ooqnpjlmto/Gourmet_NaturesCr_20_MOAT.mp4",
+                        "mp4": "http://uagde.adocean.pl/files/akadnktktzy/yjoncvjgno/ooqnpjlmto/Gourmet_NaturesCr_20_MOAT.mp4",
                         "ogg": "",
                         "webm": ""
                     },
                     "inscreen": {
-                        "unique": "qagoiqsfyerffspojhfprjjr",
-                        "xgdeUrl": "https://gdeua.hit.gemius.pl/gdejs/xgde.js",
+                        "unique": "tertouotphujopmrknzcncng",
+                        "xgdeUrl": "http://gdeua.hit.gemius.pl/gdejs/xgde.js",
                         "hitUrl": ""
                     },
                     "resizeOnRequest": false,
                     "skipoffset": "00:00:05",
                     "muted": false,
-                    "playerHandles": 1,
-                    "clickTag": "https://www.purina.ua/cat/gourmet/product-range/Натуральні-рецепти?utm_source=DR_TR_RON_Pack_StarLight&utm_medium=display&utm_campaign=3200811277_PUB_PURI_gou_PETC_UA_NP_ENC&utm_content=MDV_MUL_InStreamVideo_NA",
+                    "playerHandles": 0,
+                    "clickTag": "https://www.purina.ua/cat/gourmet/product-range/%D0%9D%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%96-%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B8?utm_source=DR_TR_RON_Pack_StarLight&utm_medium=display&utm_campaign=3200811277_PUB_PURI_gou_PETC_UA_NP_ENC&utm_content=MDV_MUL_InStreamVideo_NA",
                     "close": {
                         "display": false,
                         "size": "",
@@ -36,23 +36,23 @@
                         "timeout": ""
                     },
                     "soundSwitch": false,
-                    "soundSwitchTeaser": true,
+                    "soundSwitchTeaser": false,
                     "useCustomSkipButton": false,
                     "customSkipButtonStyles": "",
                     "strings": {
                         "skipIn": "Skip in %t",
                         "skipAd": "Skip Ad"
                     },
-                    "host": "https://uagde.adocean.pl"
+                    "host": "http://uagde.adocean.pl"
                 }
             ]]></AdParameters>
             <MediaFiles>
                 <MediaFile delivery="progressive" type="application/x-javascript" apiFramework="VPAID">
-                <![CDATA[https://uagde.adocean.pl/files/js/vpaid_linear.async.js]]>
+                <![CDATA[http://uagde.adocean.pl/files/js/vpaid_linear.async.js]]>
                 </MediaFile>
             </MediaFiles>
             <VideoClicks>
-                <ClickThrough><![CDATA[https://www.purina.ua/cat/gourmet/product-range/Натуральні-рецепти?utm_source=DR_TR_RON_Pack_StarLight&utm_medium=display&utm_campaign=3200811277_PUB_PURI_gou_PETC_UA_NP_ENC&utm_content=MDV_MUL_InStreamVideo_NA]]></ClickThrough>
+                <ClickThrough><![CDATA[https://www.purina.ua/cat/gourmet/product-range/%D0%9D%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%96-%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B8?utm_source=DR_TR_RON_Pack_StarLight&utm_medium=display&utm_campaign=3200811277_PUB_PURI_gou_PETC_UA_NP_ENC&utm_content=MDV_MUL_InStreamVideo_NA]]></ClickThrough>
             </VideoClicks>
             <TrackingEvents>
                 <Tracking event="start"><![CDATA[]]></Tracking>
@@ -73,3 +73,4 @@
     </InLine>
   </Ad>
 </VAST>
+
