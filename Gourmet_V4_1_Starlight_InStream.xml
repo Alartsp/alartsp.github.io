@@ -6,7 +6,7 @@
       <Impression><![CDATA[]]></Impression>
       <Creatives>
         <Creative>
-          <Linear>
+          <Linear skipoffset="00:00:05">
             <Duration>00:00:20</Duration>
             <AdParameters><![CDATA[
                 {
